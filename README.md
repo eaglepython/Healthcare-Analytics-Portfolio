@@ -113,7 +113,6 @@ Healthcare-Analytics-Portfolio/
 ## **Contact & Socials**
 For inquiries, collaborations, or feedback, feel free to reach out:
 - **Email:** aceforgood7@gmail.com
-- **LinkedIn:** [Armand Bidias](https://www.linkedin.com/in/josephbidias/)
 - **GitHub:** [Eaglepython](https://github.com/Eaglepython)
 
 🚀 Thank you for visiting my **Healthcare Analytics Portfolio**! Feel free to fork, contribute, or reach out for discussions.

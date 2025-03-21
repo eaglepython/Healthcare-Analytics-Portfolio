@@ -4,7 +4,7 @@
 Welcome to the **Healthcare Analytics Portfolio**! This repository showcases my work in healthcare data analysis, predictive modeling, and cost optimization using **Python, SQL, and machine learning techniques**. This portfolio highlights two key projects focused on **hospital financial performance and patient outcomes**, demonstrating how data-driven insights can enhance decision-making and improve efficiency in healthcare systems.
 
 ## **About Me**
-I am **Armand Bidias**, a dedicated **Healthcare Analyst** with expertise in **data analytics, financial modeling, and predictive analytics**. With a background in **biomedical sciences** and a **Master’s in Financial Engineering**, I specialize in leveraging **data science and machine learning** to drive healthcare efficiency, reduce costs, and improve patient care.
+I am **Armand Bidias**, a dedicated **Healthcare Data Scientist** with expertise in **data analytics, financial modeling, and predictive analytics**. With a background in **biomedical sciences** and a **Financial Engineering**, I specialize in leveraging **data science and machine learning** to drive healthcare efficiency, reduce costs, and improve patient care.
 
 ### **Skills & Technologies Used**
 - **Programming:** Python, R, SQL

@@ -37,7 +37,6 @@ This project analyzes hospital financial performance by visualizing revenue tren
 
 ## **How to Run the Code**
 ### 1. Install Dependencies
-```bash
 pip install pandas numpy matplotlib seaborn scikit-learn fuzzywuzzy openpyxl
 
 
@@ -51,12 +50,6 @@ Key Takeaways
 ✅ Correlation analysis helps identify which cost factors impact revenue the most.
 
 
-Author
-
-Joseph Armand Bidias 
-
-
----
 
 ## **Next Steps**
 1. **Apply Feature Engineering**  
@@ -67,3 +60,8 @@ Joseph Armand Bidias
 
 3. **Expand Analysis to Other Projects**  
    - Integrate this financial model with **hospital staffing optimization** to improve cost efficiency.
+
+
+
+Author
+Joseph Armand Bidias 

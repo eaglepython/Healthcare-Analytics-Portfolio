@@ -35,7 +35,7 @@ This project examines how hospital staffing levels impact **patient outcomes** a
 
 ## **How to Run the Code**
 ### 1. Install Dependencies
-```bash
+
 pip install pandas numpy matplotlib seaborn scikit-learn fuzzywuzzy openpyxl rapidfuzz
 
 ###2. Run the Python Script(bash)

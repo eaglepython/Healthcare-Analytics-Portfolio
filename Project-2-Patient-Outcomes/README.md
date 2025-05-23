@@ -59,6 +59,3 @@ python patient_outcomes.py
 
 
 
-Author
-
-Joseph Bidias

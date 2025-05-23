@@ -63,5 +63,3 @@ Key Takeaways
 
 
 
-Author
-Joseph Armand Bidias 

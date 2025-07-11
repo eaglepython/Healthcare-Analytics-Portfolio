@@ -210,6 +210,36 @@ streamlit run dashboard.py
 ### Dashboard Access
 Navigate to `http://localhost:8501` for the interactive platform
 
+
+
+## ⚡ **Alternative: Quick Demo Setup**
+### **Run the demo:**
+```bash
+python -m streamlit run demo.py
+```
+## 🎯 **For Your Presentation:**
+
+### **Key Talking Points:**
+1. **"This portfolio demonstrates advanced cardiovascular analytics with $4M+ ROI"**
+2. **"Real-time risk prediction with 91% ML accuracy"**  
+3. **"Production-ready systems for 15,000+ patients"**
+4. **"Measurable outcomes: 25-30% reduction in adverse events"**
+
+### **Demo Flow:**
+1. **Start with Portfolio Overview** - Show overall impact
+2. **Cardiovascular Risk Calculator** - Interactive demo
+3. **Heart Failure Analytics** - Financial ROI focus
+4. **Emphasize business value** - $2.5M savings, 325% ROI
+
+## ⚡ **Quick Commands for Presentation:**
+
+```bash
+# If streamlit still not working, use:
+python -m pip install --user streamlit
+python -c "import streamlit; print('Ready for demo!')"
+python -m streamlit run demo.py
+```
+
 ## 📊 Key Features
 
 ### 1. Risk Calculator

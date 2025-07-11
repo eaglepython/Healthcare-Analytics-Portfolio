@@ -76,10 +76,11 @@ Healthcare-Analytics-Portfolio/
 │   ├── models/                     # Predictive models
 │   ├── reports/                    # Business impact reports
 │   └── README.md                   # Project documentation
+├── demo.py                         # Very Quick start
 ├── requirements.txt                # Python dependencies
-├── docker-compose.yml             # Container orchestration
-├── Dockerfile                     # Container configuration
-└── README.md                      # This file
+├── docker-compose.yml              # Container orchestration
+├── Dockerfile                      # Container configuration
+└── README.md                       # This file
 ```
 
 ## 💼 Key Competencies Demonstrated

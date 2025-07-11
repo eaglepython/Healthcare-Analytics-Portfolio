@@ -23,11 +23,11 @@ This portfolio demonstrates advanced cardiovascular analytics expertise for heal
 
 ## 📊 Projects Overview
 
-### Project 1: Cardiovascular Risk Prediction & Clinical Decision Support
+### Project A : Cardiovascular Risk Prediction & Clinical Decision Support
 **Business Impact:** 25% reduction in cardiac events, improved care coordination  
 **Technologies:** Python, ML, Streamlit, Real-time Analytics
 
-### Project 2: Heart Failure Readmission Prevention Analytics
+### Project B: Heart Failure Readmission Prevention Analytics
 **Business Impact:** 30% reduction in 30-day readmissions, $2.5M annual savings  
 **Technologies:** Advanced ML, Intervention Optimization, Executive Dashboards
 
@@ -42,10 +42,10 @@ cd Healthcare-Analytics-Portfolio
 # Install dependencies
 pip install -r requirements.txt
 
-# Launch Project 1 Dashboard
+# Launch Project A Dashboard
 streamlit run cardiovascular-risk-prediction/dashboard.py
 
-# Launch Project 2 Dashboard
+# Launch Project B Dashboard
 streamlit run heart-failure-readmission-prevention/hf_analytics_platform.py
 ```
 
@@ -156,7 +156,7 @@ Available for:
 
 ---
 
-# Project 1: Cardiovascular Risk Prediction README.md
+# Project A: Cardiovascular Risk Prediction README.md
 
 # ❤️ Cardiovascular Risk Prediction & Clinical Decision Support System
 
@@ -339,7 +339,7 @@ python -m streamlit run demo.py
 
 ---
 
-# Project 2: Heart Failure Readmission Prevention README.md
+# Project B: Heart Failure Readmission Prevention README.md
 
 # 🫀 Heart Failure Readmission Prevention Analytics Platform
 
@@ -513,6 +513,10 @@ streamlit run hf_analytics_platform.py
 - **Access Controls:** Role-based permissions and audit trails
 - **Data Encryption:** End-to-end security protocols
 - **Monitoring:** Real-time security and performance monitoring
+
+  ## 🎯 Supplemetal Projects
+- **🔗 [Project 1 Healthcare Financial Performance Dashboard →].(https://github.com/eaglepython/Healthcare-Analytics-Portfolio/tree/main/Project-1-Financial-Performance)** : To analyze hospital financial performance by visualizing revenue trends and building a predictive model using Linear Regression.
+- **🔗 [Project 2 Patient Outcomes & Cost Optimization Model →].(https://github.com/eaglepython/Healthcare-Analytics-Portfolio/tree/main/Project-2-Patient-Outcomes)** : To examines how hospital staffing levels impact patient outcomes and hospital costs, using Random Forest Regression.
 
 ## 📞 Implementation Support
 **Joseph Bidias** - Healthcare Analytics Leader  

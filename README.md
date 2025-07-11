@@ -1,4 +1,4 @@
-# Healthcare Analytics Portfolio - Main README.md
+
 <img width="1873" height="795" alt="image" src="https://github.com/user-attachments/assets/99b32209-9c27-45fd-bfc0-13b37ccdb6dc" />
 
 # 🏥 Healthcare Analytics Portfolio
@@ -156,7 +156,7 @@ Available for:
 
 ---
 
-# Project A: Cardiovascular Risk Prediction README.md
+# Project A: Cardiovascular Risk Prediction
 
 # ❤️ Cardiovascular Risk Prediction & Clinical Decision Support System
 
@@ -339,7 +339,7 @@ python -m streamlit run demo.py
 
 ---
 
-# Project B: Heart Failure Readmission Prevention README.md
+# Project B: Heart Failure Readmission Prevention
 
 # 🫀 Heart Failure Readmission Prevention Analytics Platform
 
@@ -547,4 +547,3 @@ streamlit run hf_analytics_platform.py
 - **Highlight scalability** and production-ready architecture
 - **Demonstrate leadership** through project management aspects
 
-This portfolio showcases exactly the type of advanced cardiovascular analytics expertise that Baylor Scott & White is seeking for their Cardiovascular Manager Advanced Analytics position!

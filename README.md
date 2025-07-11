@@ -515,8 +515,8 @@ streamlit run hf_analytics_platform.py
 - **Monitoring:** Real-time security and performance monitoring
 
   ## 🎯 Supplemetal Projects
-- **🔗 [Project 1 Healthcare Financial Performance Dashboard →].(https://github.com/eaglepython/Healthcare-Analytics-Portfolio/tree/main/Project-1-Financial-Performance)** : To analyze hospital financial performance by visualizing revenue trends and building a predictive model using Linear Regression.
-- **🔗 [Project 2 Patient Outcomes & Cost Optimization Model →].(https://github.com/eaglepython/Healthcare-Analytics-Portfolio/tree/main/Project-2-Patient-Outcomes)** : To examines how hospital staffing levels impact patient outcomes and hospital costs, using Random Forest Regression.
+- **🔗 [Project 1 Healthcare Financial Performance Dashboard →](https://github.com/eaglepython/Healthcare-Analytics-Portfolio/tree/main/Project-1-Financial-Performance)** : To analyze hospital financial performance by visualizing revenue trends and building a predictive model using Linear Regression.
+- **🔗 [Project 2 Patient Outcomes & Cost Optimization Model →](https://github.com/eaglepython/Healthcare-Analytics-Portfolio/tree/main/Project-2-Patient-Outcomes)** : To examines how hospital staffing levels impact patient outcomes and hospital costs, using Random Forest Regression.
 
 ## 📞 Implementation Support
 **Joseph Bidias** - Healthcare Analytics Leader  

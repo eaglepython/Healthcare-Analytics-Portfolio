@@ -1,4 +1,5 @@
 # Healthcare Analytics Portfolio - Main README.md
+<img width="1873" height="795" alt="image" src="https://github.com/user-attachments/assets/99b32209-9c27-45fd-bfc0-13b37ccdb6dc" />
 
 # 🏥 Healthcare Analytics Portfolio
 **Advanced Cardiovascular Analytics for Healthcare Management**

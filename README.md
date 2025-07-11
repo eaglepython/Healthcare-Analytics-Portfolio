@@ -216,6 +216,11 @@ Navigate to `http://localhost:8501` for the interactive platform
 ## ⚡ **Alternative: Quick Demo Setup**
 ### **Run the demo:**
 ```bash
+# Clone repository
+git clone https://github.com/eaglepython/Healthcare-Analytics-Portfolio.git
+cd Healthcare-Analytics-Portfolio
+
+python -m pip install --user streamlit 
 python -m streamlit run demo.py
 ```
 ## 🎯 **For Your Presentation:**

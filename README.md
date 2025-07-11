@@ -69,11 +69,11 @@ Suplemental Projects/
 │   ├── README.md                                     
 │   └── financial_dashboard.py               
 └── Project-2-Patients-Outcomes
-    ├── data      
-    ├── visualizations                
-    ├── README.md                                     
-    └── patient_outcomes.py 
-
+│   ├── data      
+│   ├── visualizations                
+│   ├── README.md                                     
+│   └── patient_outcomes.py 
+│ 
 Healthcare-Analytics-Portfolio/
 ├── cardiovascular-risk-prediction/
 │   ├── data_generation.py          # Synthetic data creation

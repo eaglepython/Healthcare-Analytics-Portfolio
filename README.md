@@ -55,13 +55,25 @@ streamlit run heart-failure-readmission-prevention/hf_analytics_platform.py
 docker-compose up -d
 
 # Access dashboards
-# Project 1: http://localhost:8501
-# Project 2: http://localhost:8502
+# Project A: http://localhost:8501
+# Project B: http://localhost:8502
 # MLflow: http://localhost:5000
 ```
 
 ## 🏗️ Repository Structure
 ```
+Suplemental Projects/
+├── Project-1-Financial-Performance      
+│   ├── data      
+│   ├── visualizations                
+│   ├── README.md                                     
+│   └── financial_dashboard.py               
+└── Project-2-Patients-Outcomes
+    ├── data      
+    ├── visualizations                
+    ├── README.md                                     
+    └── patient_outcomes.py 
+
 Healthcare-Analytics-Portfolio/
 ├── cardiovascular-risk-prediction/
 │   ├── data_generation.py          # Synthetic data creation

@@ -11,7 +11,7 @@
 ## 👨‍💼 About the Author
 **Joseph Bidias** - Healthcare Analytics Leader  
 📧 rodabeck777@gmail.com | 📞 (214) 886-3785  
-🔗 [LinkedIn](https://linkedin.com/in/joseph-bidias) | 💻 [GitHub](https://github.com/eaglepython)
+🔗  💻 [GitHub](https://github.com/eaglepython)
 
 ## 🎯 Portfolio Objective
 This portfolio demonstrates advanced cardiovascular analytics expertise for healthcare management positions, specifically showcasing:
